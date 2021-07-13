@@ -7,7 +7,7 @@
 #### [Project #3 "Mail" Demo Video](https://youtu.be/3BZ1Qn_BG6c)
 
 Image is link to the video too :)
-[![Project #3 "Mail" ](https://github.com/NataTimos/CS50-Web-Wiki/blob/main/Wiki.png)](https://youtu.be/3BZ1Qn_BG6c)
+[![Project #3 "Mail" ](https://github.com/NataTimos/CS50-Web-Mail/blob/main/mail.png)](https://youtu.be/3BZ1Qn_BG6c)
 
 ### Example of application work
 ![gif image of index page](https://github.com/NataTimos/CS50-Web-Wiki/blob/main/Wiki.gif)
